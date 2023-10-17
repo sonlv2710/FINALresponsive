@@ -1,0 +1,18 @@
+.gheThuong {
+    background-color: grey;
+    cursor: pointer;
+}
+
+.gheVip {
+    background-color: burlywood;
+    cursor: pointer;
+}
+
+.gheDaDat {
+    background-color: crimson !important;
+    cursor: no-drop;
+}
+
+.gheMinhDaDat {
+    background-color: gold !important;
+}
